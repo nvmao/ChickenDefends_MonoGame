@@ -1,0 +1,101 @@
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Platform.exe
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Platform.deps.json
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Platform.runtimeconfig.json
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Platform.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Platform.pdb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.csproj.AssemblyReference.cache
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.AssemblyInfoInputs.cache
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.AssemblyInfo.cs
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.csproj.CoreCompileInputs.cache
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.csproj.CopyComplete
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.dll
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\refint\Platform.dll
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.pdb
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\Platform.genruntimeconfig.cache
+D:\Projects\Mono Platform2\Platform\Platform\obj\Debug\net6.0\ref\Platform.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\File.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\cat.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\TiledSharp.dll
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\CastleTiles.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\Walk_Run_Push_Dust_6.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\door.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\key.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\Dude_Monster_Walk_6.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\bunny.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\player_attack.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\player_idle.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\player_jump.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\player_walk.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\font.xnb
+D:\Projects\Mono Platform2\Platform\Platform\bin\Debug\net6.0\Content\MonedaR.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\File.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\bunny.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\CastleTiles.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\cat.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\door.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Dude_Monster_Walk_6.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\font.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\key.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\MonedaR.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\player_attack.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\player_idle.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\player_jump.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\player_walk.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Walk_Run_Push_Dust_6.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Platform.exe
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Platform.deps.json
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Platform.runtimeconfig.json
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Platform.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Platform.pdb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\TiledSharp.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.csproj.AssemblyReference.cache
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.AssemblyInfoInputs.cache
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.AssemblyInfo.cs
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.csproj.CoreCompileInputs.cache
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.csproj.CopyComplete
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\refint\Platform.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.pdb
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\Platform.genruntimeconfig.cache
+D:\Projects\Mono Platform4 level\Platform\Platform\obj\Debug\net6.0\ref\Platform.dll
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Green-Tree.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Tiles.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Background.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\enemy_walk.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\knife.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\knife2.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\enemy2_idle.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\enemy2_attack.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Background2.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\Background3.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\menuBG.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\clickBtn.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\nextLevel.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\pickCoin.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\music.ogg
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\music.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\jump.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\throw.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\die.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\duckwake.xnb
+D:\Projects\Mono Platform4 level\Platform\Platform\bin\Debug\net6.0\Content\big.xnb
